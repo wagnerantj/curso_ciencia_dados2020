@@ -23,5 +23,8 @@ def add_checking(exclude_list):
     history.to_pickle(history_pickle)
 
 
-exclude_list = ['Slackbot', 'alexlopespereira', 'Bruno Melo', 'Erick Muzart', 'stefanomozart', 'vronks']
+exclude_list = None #['Slackbot', 'alexlopespereira', 'Bruno Melo', 'Erick Muzart', 'stefanomozart', 'vronks']
+with open('./data/exclude_list') as f:
+  exclude_list = f.read().splitlines()
+
 add_checking(exclude_list)
