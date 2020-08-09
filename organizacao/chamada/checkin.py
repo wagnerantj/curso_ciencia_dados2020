@@ -51,7 +51,7 @@ def run():
 
     current = add_checking(exclude_list)
     current_date = list(current[0].keys())[1]
-    current = [s for s in current if s[current_date] == 'Inativo']
+    current = [s for s in current if s[current_date] == 'Ativo']
     df = create_groups(current, groups, 4)
     print(df.to_markdown())
 
