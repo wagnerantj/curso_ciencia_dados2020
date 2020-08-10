@@ -29,6 +29,8 @@ def add_checking(exclude_list):
         history = history.merge(current, on='nome', how='right')
     print(history.to_markdown())
     history.to_pickle(history_pickle)
+    return students
+
 
 def create_groups(students, groups, group_length):
     N = len(students)
@@ -38,7 +40,6 @@ def create_groups(students, groups, group_length):
     shuffle(students)
     df = pd.DataFrame(index=flat_groups, data=students)
     return df
-
 
 
 def run():
@@ -52,9 +53,9 @@ def run():
       groups = f.read().splitlines()
 
 
-    add_checking(exclude_list)
-    students = get_students()
-    df = create_groups(students, groups, 4)
+    current = add_checking(exclude_list)
+    # students = get_students()
+    df = create_groups(current, groups, 4)
     print(df.to_markdown())
 
 run()
