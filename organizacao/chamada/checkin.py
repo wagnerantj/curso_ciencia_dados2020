@@ -26,11 +26,10 @@ def add_checking(exclude_list):
         history = pd.DataFrame(students)
     else:
         current = pd.DataFrame(students)
-        history = history.merge(current, on='nome', how='right')
+        history = history.merge(current, on='nome', how='outer')
     print(history.to_markdown())
     history.to_pickle(history_pickle)
     return students
-
 
 def create_groups(students, groups, group_length):
     N = len(students)
@@ -51,7 +50,10 @@ def run():
       groups = f.read().splitlines()
 
     current = add_checking(exclude_list)
+    current_date = list(current[0].keys())[1]
+    current = [s for s in current if s[current_date] == 'Ativo']
     df = create_groups(current, groups, 4)
     print(df.to_markdown())
 
 run()
+
