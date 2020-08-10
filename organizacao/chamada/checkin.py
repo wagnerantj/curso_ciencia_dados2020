@@ -43,8 +43,6 @@ def create_groups(students, groups, group_length):
 
 
 def run():
-    exclude_list = None
-    groups = None
 
     with open('./data/exclude_list') as f:
       exclude_list = f.read().splitlines()
@@ -52,9 +50,7 @@ def run():
     with open('./data/groups') as f:
       groups = f.read().splitlines()
 
-
     current = add_checking(exclude_list)
-    # students = get_students()
     df = create_groups(current, groups, 4)
     print(df.to_markdown())
 
