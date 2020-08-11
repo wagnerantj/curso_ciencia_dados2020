@@ -57,7 +57,7 @@ def scrapy_students(user, password, url=slack_channel_url, exclude_list=None, no
     students = []
     today = (datetime.datetime.today() + datetime.timedelta(days=1)).strftime('%Y-%m-%d')
     for i in tree_items:
-        name = i.text.replace('(you)','')
+        name = i.text.replace('(you)', '')
         if i.find_elements_by_tag_name('i')[1].get_attribute('title') == "Active":
             students.append({'nome': name, today: 'Ativo'})
         else:
