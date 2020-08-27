@@ -21,15 +21,6 @@ def wait_download(path, extension, current_nfiles, max_wait=60):
         print(count)
         nfiles = len(fnmatch.filter(os.listdir(path), '*.{0}'.format(extension)))
 
-def wait_element(driver, id, timeout=8, by_tag=By.ID):
-    try:
-        element_present = EC.presence_of_element_located((by_tag, id))
-        WebDriverWait(driver, timeout).until(element_present)
-    except TimeoutException:
-        print("Timed out waiting for page to load")
-        pass
-        return False
-    return True
 
 def scrapy_datasus(value, download_path):
     url = 'http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sih/cnv/qiuf.def'
@@ -58,7 +49,7 @@ def scrapy_datasus(value, download_path):
         options_A[n].click()
         driver.find_elements_by_xpath("//input[@id='F']")[1].click()
         driver.find_element_by_xpath("//input[@type='submit']").click()
-        wait_element(driver, '//tr/td/a', by_tag=By.XPATH)
+        wait_element(driver, '//tr/td/a', by=By.XPATH)
         sleep(2)
         buttons = driver.find_elements_by_xpath("//tr/td/a")
         current_nfiles = len(fnmatch.filter(os.listdir(download_path), '*.{0}'.format('csv')))
@@ -66,7 +57,7 @@ def scrapy_datasus(value, download_path):
         wait_download(download_path, 'csv', current_nfiles)
         sleep(1)
         buttons[-1].click()
-        wait_element(driver, "//select[@id='A']/option", by_tag=By.XPATH)
+        wait_element(driver, "//select[@id='A']/option", by=By.XPATH)
         options_A = driver.find_elements_by_xpath("//select[@id='A']/option")
 
 def concat_pysus(ufs, y_begin, y_end):
