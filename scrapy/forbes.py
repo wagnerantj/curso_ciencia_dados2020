@@ -5,7 +5,7 @@ from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.common.by import By
 from scrapy.util import wait_element, remove_element
-
+import json
 
 def get_page_data(driver):
     rows = driver.find_elements_by_xpath('//div[@role="row"]')
@@ -58,4 +58,6 @@ def scrapy_forbes(url):
 
 url = 'https://fortune.com/global500/2020/search/'
 result = scrapy_forbes(url)
+with open('data.json', 'w') as fp:
+    json.dump(result, fp)
 print(result)
