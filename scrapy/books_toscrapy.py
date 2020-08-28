@@ -1,16 +1,12 @@
 # -*- coding: utf-8 -*-
 import datetime
+import json
 import time
 import re
 from selenium import webdriver
-from selenium.common.exceptions import TimeoutException, NoSuchElementException
+from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.common.by import By
-from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.support.wait import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-
-
-
+from scrapy.util import wait_element
 
 
 def get_page_data(driver):
@@ -44,7 +40,7 @@ def get_page_data(driver):
     return dataset
 
 
-def scrapy_forbes(url):
+def scrapy_books(url):
     driver = webdriver.Firefox()
     driver.get(url)
     print(driver)
@@ -65,6 +61,8 @@ def scrapy_forbes(url):
     return whole_dataset
 
 
-url = 'https://fortune.com/global500/2020/search/'
-result = scrapy_forbes(url)
+url = 'http://books.toscrape.com'
+result = scrapy_books(url)
+with open('data.json', 'w') as fp:
+    json.dump(result, fp)
 print(result)
