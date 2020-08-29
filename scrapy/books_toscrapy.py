@@ -18,10 +18,11 @@ def get_page_data(driver):
         current_page_driver.get(href)
         wait_element(current_page_driver, '//tr/td', by=By.XPATH)
         product_main = current_page_driver.find_element_by_xpath('//div[contains(@class,"product_main")]')
-        title = product_main.find_element_by_tag_name('h1').text
+        product_main_text = product_main.text.split('\n')
+        title = product_main_text[0]
+        price = product_main_text[1]
+        stock = re.findall('\d+', product_main_text[2])
         product_main_ps = product_main.find_elements_by_tag_name('p')
-        price = product_main_ps[0].text
-        stock = re.findall('\d+', product_main_ps[1].text)
         stars_colors = [x.value_of_css_property("color") for x in product_main_ps[2].find_elements_by_tag_name('i')]
         stars = stars_colors.count('rgb(230, 206, 49)')
         description = current_page_driver.find_element_by_xpath('//article/p').text
