@@ -14,5 +14,7 @@ for a in range(8):
     table[f'nota_aula_{num_aula}'] = 10*table[f'Aula{num_aula}']/nao_extra[a]
 
 table['media'] = 10*table.sum(axis=1)/sum(nao_extra)
-table['media_tamponada'] =table['media'].apply(lambda x: min(x, 10))
+table['media_tamponada'] = table['media'].apply(lambda x: min(x, 10))
 table.to_excel('./notas.xls')
+
+
