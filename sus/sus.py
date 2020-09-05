@@ -11,6 +11,8 @@ from selenium.webdriver.common.by import By
 import fnmatch
 import os
 
+from scrapy.util import wait_element
+
 
 def wait_download(path, extension, current_nfiles, max_wait=60):
     nfiles = len(fnmatch.filter(os.listdir(path), '*.{0}'.format(extension)))
