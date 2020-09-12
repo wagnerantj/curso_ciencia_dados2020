@@ -1,5 +1,5 @@
 assignment,duedate,timestamp,student_id,last_name,first_name,email,raw_score,late_submission_penalty,score,max_score
-Aula1,,2020-08-09 23:01:32.958837,ronniedilli,,,,0.0,0.0,0.0,14.0
+Aula1,,2020-09-03 22:33:04.306961,ronniedilli,,,,0.0,0.0,0.0,14.0
 Aula1,,2020-08-14 14:26:42.620134,alexandrepratti,,,,12.0,0.0,12.0,14.0
 Aula1,,2020-08-14 15:21:09.710384,alexbenevento,,,,10.0,0.0,10.0,14.0
 Aula1,,2020-08-11 02:33:04.190757,alexlopespereira,,,,0.0,0.0,0.0,14.0
@@ -21,21 +21,23 @@ Aula1,,2020-08-10 13:56:24.151704,joaoluizrabelo,,,,0.0,0.0,0.0,14.0
 Aula1,,2020-08-11 14:10:27.805874,jrodrigosousa,,,,14.0,0.0,14.0,14.0
 Aula1,,2020-08-14 01:52:11.538477,lago1970,,,,2.0,0.0,2.0,14.0
 Aula1,,2020-08-26 18:38:19.209907,marinarcaetano,,,,11.0,0.0,11.0,14.0
-Aula1,,2020-08-19 11:22:31.808783,matheusrizzo,,,,11.0,0.0,11.0,14.0
+Aula1,,2020-09-02 11:04:13.402146,matheusrizzo,,,,11.0,0.0,11.0,14.0
 Aula1,,2020-08-21 02:44:49.599712,maxwelfreitas,,,,10.0,0.0,10.0,14.0
 Aula1,,2020-08-14 05:43:42.431807,maxwellmeneses,,,,10.0,0.0,10.0,14.0
 Aula1,,2020-08-11 17:15:36.307631,mlnunes,,,,14.0,0.0,14.0,14.0
 Aula1,,2020-08-25 15:49:16.287271,rasouzamail,,,,9.0,0.0,9.0,14.0
 Aula1,,2020-08-15 14:27:17.622302,renatobarbosamedeiros,,,,10.0,0.0,10.0,14.0
-Aula1,,2020-08-12 20:31:23.074558,rgildoaraujo,,,,14.0,0.0,14.0,14.0
+Aula1,,2020-09-03 13:53:41.054508,rgildoaraujo,,,,14.0,0.0,14.0,14.0
 Aula1,,2020-08-13 23:45:14.269135,rmsantos84,,,,14.0,0.0,14.0,14.0
-Aula1,,2020-08-13 21:23:47.327086,rodrigoeaf,,,,10.0,0.0,10.0,14.0
+Aula1,,2020-08-30 23:49:02.791214,rodrigoeaf,,,,12.0,0.0,12.0,14.0
 Aula1,,2020-08-14 07:10:39.923184,ronaldoabrao,,,,10.0,0.0,10.0,14.0
 Aula1,,2020-08-28 12:39:30.611829,zmalhano,,,,10.0,0.0,10.0,14.0
 Aula1,,,rafaelssl,,,,0.0,0.0,0.0,14.0
 Aula1,,,luisssguilherme,,,,0.0,0.0,0.0,14.0
 Aula1,,,mlnunex,,,,0.0,0.0,0.0,14.0
 Aula1,,,leila2905,,,,0.0,0.0,0.0,14.0
+Aula1,,2020-08-31 17:18:07.188513,pedromasson,,,,10.0,0.0,10.0,14.0
+Aula1,,2020-08-31 17:01:08.413639,root,,,,10.0,0.0,10.0,14.0
 Aula1_v2,,,ronniedilli,,,,0.0,0.0,0.0,14.0
 Aula1_v2,,,alexandrepratti,,,,0.0,0.0,0.0,14.0
 Aula1_v2,,,alexbenevento,,,,0.0,0.0,0.0,14.0
@@ -52,13 +54,13 @@ Aula1_v2,,,eduardojd,,,,0.0,0.0,0.0,14.0
 Aula1_v2,,2020-08-14 13:42:24.305489,euclidesfagundes,,,,0.0,0.0,0.0,14.0
 Aula1_v2,,,fabiolima-ww,,,,0.0,0.0,0.0,14.0
 Aula1_v2,,,gchehab,,,,0.0,0.0,0.0,14.0
-Aula1_v2,,2020-08-20 03:34:56.180623,gustavomacedo20,,,,4.0,0.0,4.0,14.0
+Aula1_v2,,2020-09-02 11:44:37.577514,gustavomacedo20,,,,14.0,0.0,14.0,14.0
 Aula1_v2,,,halisson-gomides,,,,0.0,0.0,0.0,14.0
-Aula1_v2,,,joaoluizrabelo,,,,0.0,0.0,0.0,14.0
+Aula1_v2,,2020-08-31 03:32:52.978898,joaoluizrabelo,,,,10.0,0.0,10.0,14.0
 Aula1_v2,,,jrodrigosousa,,,,0.0,0.0,0.0,14.0
 Aula1_v2,,,lago1970,,,,0.0,0.0,0.0,14.0
 Aula1_v2,,2020-08-24 17:57:52.870183,marinarcaetano,,,,1.0,0.0,1.0,14.0
-Aula1_v2,,2020-08-19 11:22:37.777518,matheusrizzo,,,,10.0,0.0,10.0,14.0
+Aula1_v2,,2020-09-02 11:04:08.769866,matheusrizzo,,,,10.0,0.0,10.0,14.0
 Aula1_v2,,2020-08-21 02:44:56.473841,maxwelfreitas,,,,0.0,0.0,0.0,14.0
 Aula1_v2,,,maxwellmeneses,,,,0.0,0.0,0.0,14.0
 Aula1_v2,,,mlnunes,,,,0.0,0.0,0.0,14.0
@@ -71,8 +73,10 @@ Aula1_v2,,,ronaldoabrao,,,,0.0,0.0,0.0,14.0
 Aula1_v2,,,zmalhano,,,,0.0,0.0,0.0,14.0
 Aula1_v2,,2020-08-14 23:41:03.382949,rafaelssl,,,,13.0,0.0,13.0,14.0
 Aula1_v2,,2020-08-19 21:17:31.966188,luisssguilherme,,,,14.0,0.0,14.0,14.0
-Aula1_v2,,2020-08-21 11:52:22.685368,mlnunex,,,,14.0,0.0,14.0,14.0
+Aula1_v2,,2020-09-10 23:39:40.399453,mlnunex,,,,14.0,0.0,14.0,14.0
 Aula1_v2,,2020-08-24 12:15:50.081403,leila2905,,,,11.0,0.0,11.0,14.0
+Aula1_v2,,2020-08-31 17:18:17.229131,pedromasson,,,,0.0,0.0,0.0,14.0
+Aula1_v2,,,root,,,,0.0,0.0,0.0,14.0
 Aula2,,,ronniedilli,,,,0.0,0.0,0.0,10.0
 Aula2,,,alexandrepratti,,,,0.0,0.0,0.0,10.0
 Aula2,,2020-08-19 19:22:44.371201,alexbenevento,,,,7.0,0.0,7.0,10.0
@@ -95,21 +99,23 @@ Aula2,,,joaoluizrabelo,,,,0.0,0.0,0.0,10.0
 Aula2,,2020-08-14 00:52:12.651045,jrodrigosousa,,,,10.0,0.0,10.0,10.0
 Aula2,,,lago1970,,,,0.0,0.0,0.0,10.0
 Aula2,,2020-08-26 18:38:14.360190,marinarcaetano,,,,7.0,0.0,7.0,10.0
-Aula2,,,matheusrizzo,,,,0.0,0.0,0.0,10.0
+Aula2,,2020-09-02 11:05:22.722623,matheusrizzo,,,,7.0,0.0,7.0,10.0
 Aula2,,2020-08-21 02:45:00.457875,maxwelfreitas,,,,9.0,0.0,9.0,10.0
 Aula2,,2020-08-19 11:31:02.548555,maxwellmeneses,,,,7.0,0.0,7.0,10.0
 Aula2,,2020-08-15 22:27:35.196516,mlnunes,,,,10.0,0.0,10.0,10.0
 Aula2,,2020-08-18 23:18:40.081319,rasouzamail,,,,6.0,0.0,6.0,10.0
 Aula2,,2020-08-29 12:27:40.501106,renatobarbosamedeiros,,,,7.0,0.0,7.0,10.0
-Aula2,,2020-08-17 22:16:28.247096,rgildoaraujo,,,,10.0,0.0,10.0,10.0
+Aula2,,2020-09-03 13:55:11.926668,rgildoaraujo,,,,10.0,0.0,10.0,10.0
 Aula2,,2020-08-17 22:45:58.490325,rmsantos84,,,,10.0,0.0,10.0,10.0
-Aula2,,2020-08-17 02:17:35.630996,rodrigoeaf,,,,8.0,0.0,8.0,10.0
+Aula2,,2020-08-30 23:50:12.098384,rodrigoeaf,,,,8.0,0.0,8.0,10.0
 Aula2,,2020-08-17 06:37:35.212094,ronaldoabrao,,,,7.0,0.0,7.0,10.0
 Aula2,,2020-08-27 01:47:06.022224,zmalhano,,,,7.0,0.0,7.0,10.0
 Aula2,,,rafaelssl,,,,0.0,0.0,0.0,10.0
 Aula2,,,luisssguilherme,,,,0.0,0.0,0.0,10.0
 Aula2,,,mlnunex,,,,0.0,0.0,0.0,10.0
 Aula2,,,leila2905,,,,0.0,0.0,0.0,10.0
+Aula2,,2020-08-31 17:18:26.416478,pedromasson,,,,0.0,0.0,0.0,10.0
+Aula2,,,root,,,,0.0,0.0,0.0,10.0
 Aula2_v1,,,ronniedilli,,,,0.0,0.0,0.0,10.0
 Aula2_v1,,2020-08-17 02:11:27.966626,alexandrepratti,,,,7.0,0.0,7.0,10.0
 Aula2_v1,,,alexbenevento,,,,0.0,0.0,0.0,10.0
@@ -126,9 +132,9 @@ Aula2_v1,,,eduardojd,,,,0.0,0.0,0.0,10.0
 Aula2_v1,,2020-08-14 18:04:03.864180,euclidesfagundes,,,,0.0,0.0,0.0,10.0
 Aula2_v1,,,fabiolima-ww,,,,0.0,0.0,0.0,10.0
 Aula2_v1,,,gchehab,,,,0.0,0.0,0.0,10.0
-Aula2_v1,,2020-08-20 03:35:06.321997,gustavomacedo20,,,,3.0,0.0,3.0,10.0
+Aula2_v1,,2020-09-02 11:44:47.269196,gustavomacedo20,,,,10.0,0.0,10.0,10.0
 Aula2_v1,,,halisson-gomides,,,,0.0,0.0,0.0,10.0
-Aula2_v1,,,joaoluizrabelo,,,,0.0,0.0,0.0,10.0
+Aula2_v1,,2020-08-31 02:36:32.002362,joaoluizrabelo,,,,7.0,0.0,7.0,10.0
 Aula2_v1,,,jrodrigosousa,,,,0.0,0.0,0.0,10.0
 Aula2_v1,,,lago1970,,,,0.0,0.0,0.0,10.0
 Aula2_v1,,2020-08-26 18:38:09.549378,marinarcaetano,,,,3.0,0.0,3.0,10.0
@@ -145,12 +151,14 @@ Aula2_v1,,,ronaldoabrao,,,,0.0,0.0,0.0,10.0
 Aula2_v1,,,zmalhano,,,,0.0,0.0,0.0,10.0
 Aula2_v1,,2020-08-16 23:08:17.794759,rafaelssl,,,,7.0,0.0,7.0,10.0
 Aula2_v1,,2020-08-21 19:20:39.915502,luisssguilherme,,,,10.0,0.0,10.0,10.0
-Aula2_v1,,2020-08-21 11:52:39.918375,mlnunex,,,,10.0,0.0,10.0,10.0
+Aula2_v1,,2020-09-10 23:40:01.158150,mlnunex,,,,10.0,0.0,10.0,10.0
 Aula2_v1,,,leila2905,,,,0.0,0.0,0.0,10.0
+Aula2_v1,,2020-08-31 17:18:09.729928,pedromasson,,,,7.0,0.0,7.0,10.0
+Aula2_v1,,,root,,,,0.0,0.0,0.0,10.0
 Aula3_v4,,,ronniedilli,,,,0.0,0.0,0.0,11.0
 Aula3_v4,,,alexandrepratti,,,,0.0,0.0,0.0,11.0
 Aula3_v4,,,alexbenevento,,,,0.0,0.0,0.0,11.0
-Aula3_v4,,,alexlopespereira,,,,0.0,0.0,0.0,11.0
+Aula3_v4,,2020-09-10 23:53:49.070122,alexlopespereira,,,,0.0,0.0,0.0,11.0
 Aula3_v4,,,antoniocruzjr,,,,0.0,0.0,0.0,11.0
 Aula3_v4,,,arthuribge,,,,0.0,0.0,0.0,11.0
 Aula3_v4,,,augustog81,,,,0.0,0.0,0.0,11.0
@@ -164,7 +172,7 @@ Aula3_v4,,,euclidesfagundes,,,,0.0,0.0,0.0,11.0
 Aula3_v4,,,fabiolima-ww,,,,0.0,0.0,0.0,11.0
 Aula3_v4,,,gchehab,,,,0.0,0.0,0.0,11.0
 Aula3_v4,,,gustavomacedo20,,,,0.0,0.0,0.0,11.0
-Aula3_v4,,,halisson-gomides,,,,0.0,0.0,0.0,11.0
+Aula3_v4,,2020-08-30 23:25:52.741305,halisson-gomides,,,,11.0,0.0,11.0,11.0
 Aula3_v4,,,joaoluizrabelo,,,,0.0,0.0,0.0,11.0
 Aula3_v4,,,jrodrigosousa,,,,0.0,0.0,0.0,11.0
 Aula3_v4,,,lago1970,,,,0.0,0.0,0.0,11.0
@@ -176,7 +184,7 @@ Aula3_v4,,,mlnunes,,,,0.0,0.0,0.0,11.0
 Aula3_v4,,,rasouzamail,,,,0.0,0.0,0.0,11.0
 Aula3_v4,,,renatobarbosamedeiros,,,,0.0,0.0,0.0,11.0
 Aula3_v4,,,rgildoaraujo,,,,0.0,0.0,0.0,11.0
-Aula3_v4,,2020-08-28 23:27:39.577614,rmsantos84,,,,11.0,0.0,11.0,11.0
+Aula3_v4,,2020-08-28 23:27:39.577614,rmsantos84,,,,10.0,0.0,10.0,11.0
 Aula3_v4,,,rodrigoeaf,,,,0.0,0.0,0.0,11.0
 Aula3_v4,,,ronaldoabrao,,,,0.0,0.0,0.0,11.0
 Aula3_v4,,,zmalhano,,,,0.0,0.0,0.0,11.0
@@ -184,6 +192,8 @@ Aula3_v4,,,rafaelssl,,,,0.0,0.0,0.0,11.0
 Aula3_v4,,2020-08-29 21:32:52.171428,luisssguilherme,,,,10.0,0.0,10.0,11.0
 Aula3_v4,,,mlnunex,,,,0.0,0.0,0.0,11.0
 Aula3_v4,,,leila2905,,,,0.0,0.0,0.0,11.0
+Aula3_v4,,,pedromasson,,,,0.0,0.0,0.0,11.0
+Aula3_v4,,,root,,,,0.0,0.0,0.0,11.0
 Aula4_v5,,,ronniedilli,,,,0.0,0.0,0.0,7.0
 Aula4_v5,,,alexandrepratti,,,,0.0,0.0,0.0,7.0
 Aula4_v5,,,alexbenevento,,,,0.0,0.0,0.0,7.0
@@ -206,7 +216,7 @@ Aula4_v5,,,joaoluizrabelo,,,,0.0,0.0,0.0,7.0
 Aula4_v5,,,jrodrigosousa,,,,0.0,0.0,0.0,7.0
 Aula4_v5,,,lago1970,,,,0.0,0.0,0.0,7.0
 Aula4_v5,,,marinarcaetano,,,,0.0,0.0,0.0,7.0
-Aula4_v5,,,matheusrizzo,,,,0.0,0.0,0.0,7.0
+Aula4_v5,,2020-09-02 11:10:07.589853,matheusrizzo,,,,7.0,0.0,7.0,7.0
 Aula4_v5,,,maxwelfreitas,,,,0.0,0.0,0.0,7.0
 Aula4_v5,,,maxwellmeneses,,,,0.0,0.0,0.0,7.0
 Aula4_v5,,,mlnunes,,,,0.0,0.0,0.0,7.0
@@ -221,6 +231,8 @@ Aula4_v5,,,rafaelssl,,,,0.0,0.0,0.0,7.0
 Aula4_v5,,,luisssguilherme,,,,0.0,0.0,0.0,7.0
 Aula4_v5,,,mlnunex,,,,0.0,0.0,0.0,7.0
 Aula4_v5,,,leila2905,,,,0.0,0.0,0.0,7.0
+Aula4_v5,,,pedromasson,,,,0.0,0.0,0.0,7.0
+Aula4_v5,,,root,,,,0.0,0.0,0.0,7.0
 Aula6,,,ronniedilli,,,,0.0,0.0,0.0,0.0
 Aula6,,,alexandrepratti,,,,0.0,0.0,0.0,0.0
 Aula6,,,alexbenevento,,,,0.0,0.0,0.0,0.0
@@ -258,6 +270,8 @@ Aula6,,,rafaelssl,,,,0.0,0.0,0.0,0.0
 Aula6,,,luisssguilherme,,,,0.0,0.0,0.0,0.0
 Aula6,,,mlnunex,,,,0.0,0.0,0.0,0.0
 Aula6,,,leila2905,,,,0.0,0.0,0.0,0.0
+Aula6,,,pedromasson,,,,0.0,0.0,0.0,0.0
+Aula6,,,root,,,,0.0,0.0,0.0,0.0
 CD_Aula3,,,ronniedilli,,,,0.0,0.0,0.0,11.0
 CD_Aula3,,,alexandrepratti,,,,0.0,0.0,0.0,11.0
 CD_Aula3,,,alexbenevento,,,,0.0,0.0,0.0,11.0
@@ -295,6 +309,8 @@ CD_Aula3,,,rafaelssl,,,,0.0,0.0,0.0,11.0
 CD_Aula3,,,luisssguilherme,,,,0.0,0.0,0.0,11.0
 CD_Aula3,,,mlnunex,,,,0.0,0.0,0.0,11.0
 CD_Aula3,,,leila2905,,,,0.0,0.0,0.0,11.0
+CD_Aula3,,2020-08-31 17:18:18.679063,pedromasson,,,,0.0,0.0,0.0,11.0
+CD_Aula3,,,root,,,,0.0,0.0,0.0,11.0
 CD_Aula3_v2,,,ronniedilli,,,,0.0,0.0,0.0,11.0
 CD_Aula3_v2,,,alexandrepratti,,,,0.0,0.0,0.0,11.0
 CD_Aula3_v2,,,alexbenevento,,,,0.0,0.0,0.0,11.0
@@ -332,6 +348,8 @@ CD_Aula3_v2,,,rafaelssl,,,,0.0,0.0,0.0,11.0
 CD_Aula3_v2,,,luisssguilherme,,,,0.0,0.0,0.0,11.0
 CD_Aula3_v2,,,mlnunex,,,,0.0,0.0,0.0,11.0
 CD_Aula3_v2,,,leila2905,,,,0.0,0.0,0.0,11.0
+CD_Aula3_v2,,,pedromasson,,,,0.0,0.0,0.0,11.0
+CD_Aula3_v2,,,root,,,,0.0,0.0,0.0,11.0
 CD_Aula3_v3,,,ronniedilli,,,,0.0,0.0,0.0,11.0
 CD_Aula3_v3,,2020-08-25 13:21:00.610454,alexandrepratti,,,,8.0,0.0,8.0,11.0
 CD_Aula3_v3,,,alexbenevento,,,,0.0,0.0,0.0,11.0
@@ -354,7 +372,7 @@ CD_Aula3_v3,,,joaoluizrabelo,,,,0.0,0.0,0.0,11.0
 CD_Aula3_v3,,2020-08-26 18:13:44.951416,jrodrigosousa,,,,9.0,0.0,9.0,11.0
 CD_Aula3_v3,,,lago1970,,,,0.0,0.0,0.0,11.0
 CD_Aula3_v3,,2020-08-26 18:38:00.031295,marinarcaetano,,,,0.0,0.0,0.0,11.0
-CD_Aula3_v3,,,matheusrizzo,,,,0.0,0.0,0.0,11.0
+CD_Aula3_v3,,2020-09-02 11:06:25.507520,matheusrizzo,,,,8.0,0.0,8.0,11.0
 CD_Aula3_v3,,2020-08-21 02:45:12.693154,maxwelfreitas,,,,8.0,0.0,8.0,11.0
 CD_Aula3_v3,,2020-08-28 11:49:28.482763,maxwellmeneses,,,,8.0,0.0,8.0,11.0
 CD_Aula3_v3,,,mlnunes,,,,0.0,0.0,0.0,11.0
@@ -369,6 +387,47 @@ CD_Aula3_v3,,2020-08-21 19:54:20.725804,rafaelssl,,,,8.0,0.0,8.0,11.0
 CD_Aula3_v3,,,luisssguilherme,,,,0.0,0.0,0.0,11.0
 CD_Aula3_v3,,2020-08-21 11:51:11.446422,mlnunex,,,,8.0,0.0,8.0,11.0
 CD_Aula3_v3,,,leila2905,,,,0.0,0.0,0.0,11.0
+CD_Aula3_v3,,2020-08-31 17:18:27.904893,pedromasson,,,,8.0,0.0,8.0,11.0
+CD_Aula3_v3,,,root,,,,0.0,0.0,0.0,11.0
+CD_Aula3_v5,,,ronniedilli,,,,0.0,0.0,0.0,11.0
+CD_Aula3_v5,,,alexandrepratti,,,,0.0,0.0,0.0,11.0
+CD_Aula3_v5,,,alexbenevento,,,,0.0,0.0,0.0,11.0
+CD_Aula3_v5,,,alexlopespereira,,,,0.0,0.0,0.0,11.0
+CD_Aula3_v5,,,antoniocruzjr,,,,0.0,0.0,0.0,11.0
+CD_Aula3_v5,,,arthuribge,,,,0.0,0.0,0.0,11.0
+CD_Aula3_v5,,,augustog81,,,,0.0,0.0,0.0,11.0
+CD_Aula3_v5,,,fgottselig,,,,0.0,0.0,0.0,11.0
+CD_Aula3_v5,,,fer-p,,,,0.0,0.0,0.0,11.0
+CD_Aula3_v5,,,borracini,,,,0.0,0.0,0.0,11.0
+CD_Aula3_v5,,,chfmartins,,,,0.0,0.0,0.0,11.0
+CD_Aula3_v5,,,dermevaljr,,,,0.0,0.0,0.0,11.0
+CD_Aula3_v5,,,eduardojd,,,,0.0,0.0,0.0,11.0
+CD_Aula3_v5,,,euclidesfagundes,,,,0.0,0.0,0.0,11.0
+CD_Aula3_v5,,,fabiolima-ww,,,,0.0,0.0,0.0,11.0
+CD_Aula3_v5,,,gchehab,,,,0.0,0.0,0.0,11.0
+CD_Aula3_v5,,,gustavomacedo20,,,,0.0,0.0,0.0,11.0
+CD_Aula3_v5,,,halisson-gomides,,,,0.0,0.0,0.0,11.0
+CD_Aula3_v5,,,joaoluizrabelo,,,,0.0,0.0,0.0,11.0
+CD_Aula3_v5,,,jrodrigosousa,,,,0.0,0.0,0.0,11.0
+CD_Aula3_v5,,,lago1970,,,,0.0,0.0,0.0,11.0
+CD_Aula3_v5,,,marinarcaetano,,,,0.0,0.0,0.0,11.0
+CD_Aula3_v5,,,matheusrizzo,,,,0.0,0.0,0.0,11.0
+CD_Aula3_v5,,,maxwelfreitas,,,,0.0,0.0,0.0,11.0
+CD_Aula3_v5,,,maxwellmeneses,,,,0.0,0.0,0.0,11.0
+CD_Aula3_v5,,,mlnunes,,,,0.0,0.0,0.0,11.0
+CD_Aula3_v5,,,rasouzamail,,,,0.0,0.0,0.0,11.0
+CD_Aula3_v5,,,renatobarbosamedeiros,,,,0.0,0.0,0.0,11.0
+CD_Aula3_v5,,2020-09-02 15:41:05.458426,rgildoaraujo,,,,11.0,0.0,11.0,11.0
+CD_Aula3_v5,,,rmsantos84,,,,0.0,0.0,0.0,11.0
+CD_Aula3_v5,,,rodrigoeaf,,,,0.0,0.0,0.0,11.0
+CD_Aula3_v5,,,ronaldoabrao,,,,0.0,0.0,0.0,11.0
+CD_Aula3_v5,,,zmalhano,,,,0.0,0.0,0.0,11.0
+CD_Aula3_v5,,,rafaelssl,,,,0.0,0.0,0.0,11.0
+CD_Aula3_v5,,,luisssguilherme,,,,0.0,0.0,0.0,11.0
+CD_Aula3_v5,,2020-09-09 19:18:55.523718,mlnunex,,,,8.0,0.0,8.0,11.0
+CD_Aula3_v5,,,leila2905,,,,0.0,0.0,0.0,11.0
+CD_Aula3_v5,,,pedromasson,,,,0.0,0.0,0.0,11.0
+CD_Aula3_v5,,,root,,,,0.0,0.0,0.0,11.0
 CD_Aula4,,,ronniedilli,,,,0.0,0.0,0.0,7.0
 CD_Aula4,,,alexandrepratti,,,,0.0,0.0,0.0,7.0
 CD_Aula4,,,alexbenevento,,,,0.0,0.0,0.0,7.0
@@ -406,6 +465,8 @@ CD_Aula4,,,rafaelssl,,,,0.0,0.0,0.0,7.0
 CD_Aula4,,,luisssguilherme,,,,0.0,0.0,0.0,7.0
 CD_Aula4,,,mlnunex,,,,0.0,0.0,0.0,7.0
 CD_Aula4,,,leila2905,,,,0.0,0.0,0.0,7.0
+CD_Aula4,,,pedromasson,,,,0.0,0.0,0.0,7.0
+CD_Aula4,,,root,,,,0.0,0.0,0.0,7.0
 CD_Aula4_v2,,,ronniedilli,,,,0.0,0.0,0.0,7.0
 CD_Aula4_v2,,2020-08-21 19:13:33.997747,alexandrepratti,,,,7.0,0.0,7.0,7.0
 CD_Aula4_v2,,,alexbenevento,,,,0.0,0.0,0.0,7.0
@@ -443,6 +504,8 @@ CD_Aula4_v2,,,rafaelssl,,,,0.0,0.0,0.0,7.0
 CD_Aula4_v2,,,luisssguilherme,,,,0.0,0.0,0.0,7.0
 CD_Aula4_v2,,,mlnunex,,,,0.0,0.0,0.0,7.0
 CD_Aula4_v2,,,leila2905,,,,0.0,0.0,0.0,7.0
+CD_Aula4_v2,,,pedromasson,,,,0.0,0.0,0.0,7.0
+CD_Aula4_v2,,,root,,,,0.0,0.0,0.0,7.0
 CD_Aula4_v3,,,ronniedilli,,,,0.0,0.0,0.0,7.0
 CD_Aula4_v3,,,alexandrepratti,,,,0.0,0.0,0.0,7.0
 CD_Aula4_v3,,,alexbenevento,,,,0.0,0.0,0.0,7.0
@@ -451,10 +514,10 @@ CD_Aula4_v3,,,antoniocruzjr,,,,0.0,0.0,0.0,7.0
 CD_Aula4_v3,,,arthuribge,,,,0.0,0.0,0.0,7.0
 CD_Aula4_v3,,,augustog81,,,,0.0,0.0,0.0,7.0
 CD_Aula4_v3,,,fgottselig,,,,0.0,0.0,0.0,7.0
-CD_Aula4_v3,,2020-08-24 13:29:22.158610,fer-p,,,,7.0,0.0,7.0,7.0
+CD_Aula4_v3,,2020-08-24 13:29:22.158610,fer-p,,,,3.0,0.0,3.0,7.0
 CD_Aula4_v3,,,borracini,,,,0.0,0.0,0.0,7.0
 CD_Aula4_v3,,,chfmartins,,,,0.0,0.0,0.0,7.0
-CD_Aula4_v3,,2020-08-23 00:30:48.698635,dermevaljr,,,,7.0,0.0,7.0,7.0
+CD_Aula4_v3,,2020-08-23 00:30:48.698635,dermevaljr,,,,3.0,0.0,3.0,7.0
 CD_Aula4_v3,,,eduardojd,,,,0.0,0.0,0.0,7.0
 CD_Aula4_v3,,,euclidesfagundes,,,,0.0,0.0,0.0,7.0
 CD_Aula4_v3,,,fabiolima-ww,,,,0.0,0.0,0.0,7.0
@@ -464,7 +527,7 @@ CD_Aula4_v3,,,halisson-gomides,,,,0.0,0.0,0.0,7.0
 CD_Aula4_v3,,,joaoluizrabelo,,,,0.0,0.0,0.0,7.0
 CD_Aula4_v3,,,jrodrigosousa,,,,0.0,0.0,0.0,7.0
 CD_Aula4_v3,,,lago1970,,,,0.0,0.0,0.0,7.0
-CD_Aula4_v3,,2020-08-26 18:37:46.179645,marinarcaetano,,,,6.0,0.0,6.0,7.0
+CD_Aula4_v3,,2020-08-26 18:37:46.179645,marinarcaetano,,,,3.0,0.0,3.0,7.0
 CD_Aula4_v3,,,matheusrizzo,,,,0.0,0.0,0.0,7.0
 CD_Aula4_v3,,,maxwelfreitas,,,,0.0,0.0,0.0,7.0
 CD_Aula4_v3,,,maxwellmeneses,,,,0.0,0.0,0.0,7.0
@@ -478,15 +541,17 @@ CD_Aula4_v3,,,ronaldoabrao,,,,0.0,0.0,0.0,7.0
 CD_Aula4_v3,,,zmalhano,,,,0.0,0.0,0.0,7.0
 CD_Aula4_v3,,,rafaelssl,,,,0.0,0.0,0.0,7.0
 CD_Aula4_v3,,,luisssguilherme,,,,0.0,0.0,0.0,7.0
-CD_Aula4_v3,,2020-08-23 19:21:03.922348,mlnunex,,,,7.0,0.0,7.0,7.0
+CD_Aula4_v3,,2020-08-23 19:21:03.922348,mlnunex,,,,4.0,0.0,4.0,7.0
 CD_Aula4_v3,,,leila2905,,,,0.0,0.0,0.0,7.0
+CD_Aula4_v3,,2020-08-31 17:18:12.269490,pedromasson,,,,3.0,0.0,3.0,7.0
+CD_Aula4_v3,,,root,,,,0.0,0.0,0.0,7.0
 CD_Aula4_v4,,,ronniedilli,,,,0.0,0.0,0.0,7.0
 CD_Aula4_v4,,,alexandrepratti,,,,0.0,0.0,0.0,7.0
 CD_Aula4_v4,,,alexbenevento,,,,0.0,0.0,0.0,7.0
 CD_Aula4_v4,,,alexlopespereira,,,,0.0,0.0,0.0,7.0
 CD_Aula4_v4,,,antoniocruzjr,,,,0.0,0.0,0.0,7.0
 CD_Aula4_v4,,,arthuribge,,,,0.0,0.0,0.0,7.0
-CD_Aula4_v4,,2020-08-28 11:08:11.492357,augustog81,,,,7.0,0.0,7.0,7.0
+CD_Aula4_v4,,2020-09-07 13:51:52.543871,augustog81,,,,6.0,0.0,6.0,7.0
 CD_Aula4_v4,,,fgottselig,,,,0.0,0.0,0.0,7.0
 CD_Aula4_v4,,,fer-p,,,,0.0,0.0,0.0,7.0
 CD_Aula4_v4,,,borracini,,,,0.0,0.0,0.0,7.0
@@ -517,6 +582,8 @@ CD_Aula4_v4,,2020-08-25 00:23:10.750284,rafaelssl,,,,7.0,0.0,7.0,7.0
 CD_Aula4_v4,,2020-08-29 16:44:29.166111,luisssguilherme,,,,7.0,0.0,7.0,7.0
 CD_Aula4_v4,,,mlnunex,,,,0.0,0.0,0.0,7.0
 CD_Aula4_v4,,,leila2905,,,,0.0,0.0,0.0,7.0
+CD_Aula4_v4,,2020-08-31 17:18:21.182644,pedromasson,,,,7.0,0.0,7.0,7.0
+CD_Aula4_v4,,,root,,,,0.0,0.0,0.0,7.0
 CD_Aula4_v6,,,ronniedilli,,,,0.0,0.0,0.0,7.0
 CD_Aula4_v6,,,alexandrepratti,,,,0.0,0.0,0.0,7.0
 CD_Aula4_v6,,,alexbenevento,,,,0.0,0.0,0.0,7.0
@@ -541,19 +608,60 @@ CD_Aula4_v6,,,lago1970,,,,0.0,0.0,0.0,7.0
 CD_Aula4_v6,,,marinarcaetano,,,,0.0,0.0,0.0,7.0
 CD_Aula4_v6,,,matheusrizzo,,,,0.0,0.0,0.0,7.0
 CD_Aula4_v6,,,maxwelfreitas,,,,0.0,0.0,0.0,7.0
-CD_Aula4_v6,,,maxwellmeneses,,,,0.0,0.0,0.0,7.0
+CD_Aula4_v6,,2020-09-11 16:15:14.934118,maxwellmeneses,,,,6.0,0.0,6.0,7.0
 CD_Aula4_v6,,,mlnunes,,,,0.0,0.0,0.0,7.0
 CD_Aula4_v6,,,rasouzamail,,,,0.0,0.0,0.0,7.0
-CD_Aula4_v6,,,renatobarbosamedeiros,,,,0.0,0.0,0.0,7.0
-CD_Aula4_v6,,,rgildoaraujo,,,,0.0,0.0,0.0,7.0
+CD_Aula4_v6,,2020-09-03 14:51:12.115419,renatobarbosamedeiros,,,,0.0,0.0,0.0,7.0
+CD_Aula4_v6,,2020-09-03 13:34:37.185392,rgildoaraujo,,,,7.0,0.0,7.0,7.0
 CD_Aula4_v6,,,rmsantos84,,,,0.0,0.0,0.0,7.0
 CD_Aula4_v6,,,rodrigoeaf,,,,0.0,0.0,0.0,7.0
 CD_Aula4_v6,,,ronaldoabrao,,,,0.0,0.0,0.0,7.0
 CD_Aula4_v6,,,zmalhano,,,,0.0,0.0,0.0,7.0
 CD_Aula4_v6,,,rafaelssl,,,,0.0,0.0,0.0,7.0
 CD_Aula4_v6,,,luisssguilherme,,,,0.0,0.0,0.0,7.0
-CD_Aula4_v6,,,mlnunex,,,,0.0,0.0,0.0,7.0
+CD_Aula4_v6,,2020-09-09 16:44:41.027978,mlnunex,,,,7.0,0.0,7.0,7.0
 CD_Aula4_v6,,,leila2905,,,,0.0,0.0,0.0,7.0
+CD_Aula4_v6,,,pedromasson,,,,0.0,0.0,0.0,7.0
+CD_Aula4_v6,,,root,,,,0.0,0.0,0.0,7.0
+CD_Aula4_v7,,,ronniedilli,,,,0.0,0.0,0.0,7.0
+CD_Aula4_v7,,,alexandrepratti,,,,0.0,0.0,0.0,7.0
+CD_Aula4_v7,,,alexbenevento,,,,0.0,0.0,0.0,7.0
+CD_Aula4_v7,,,alexlopespereira,,,,0.0,0.0,0.0,7.0
+CD_Aula4_v7,,,antoniocruzjr,,,,0.0,0.0,0.0,7.0
+CD_Aula4_v7,,,arthuribge,,,,0.0,0.0,0.0,7.0
+CD_Aula4_v7,,,augustog81,,,,0.0,0.0,0.0,7.0
+CD_Aula4_v7,,,fgottselig,,,,0.0,0.0,0.0,7.0
+CD_Aula4_v7,,,fer-p,,,,0.0,0.0,0.0,7.0
+CD_Aula4_v7,,,borracini,,,,0.0,0.0,0.0,7.0
+CD_Aula4_v7,,,chfmartins,,,,0.0,0.0,0.0,7.0
+CD_Aula4_v7,,,dermevaljr,,,,0.0,0.0,0.0,7.0
+CD_Aula4_v7,,,eduardojd,,,,0.0,0.0,0.0,7.0
+CD_Aula4_v7,,,euclidesfagundes,,,,0.0,0.0,0.0,7.0
+CD_Aula4_v7,,,fabiolima-ww,,,,0.0,0.0,0.0,7.0
+CD_Aula4_v7,,,gchehab,,,,0.0,0.0,0.0,7.0
+CD_Aula4_v7,,,gustavomacedo20,,,,0.0,0.0,0.0,7.0
+CD_Aula4_v7,,,halisson-gomides,,,,0.0,0.0,0.0,7.0
+CD_Aula4_v7,,,joaoluizrabelo,,,,0.0,0.0,0.0,7.0
+CD_Aula4_v7,,,jrodrigosousa,,,,0.0,0.0,0.0,7.0
+CD_Aula4_v7,,,lago1970,,,,0.0,0.0,0.0,7.0
+CD_Aula4_v7,,,marinarcaetano,,,,0.0,0.0,0.0,7.0
+CD_Aula4_v7,,,matheusrizzo,,,,0.0,0.0,0.0,7.0
+CD_Aula4_v7,,,maxwelfreitas,,,,0.0,0.0,0.0,7.0
+CD_Aula4_v7,,,maxwellmeneses,,,,0.0,0.0,0.0,7.0
+CD_Aula4_v7,,,mlnunes,,,,0.0,0.0,0.0,7.0
+CD_Aula4_v7,,,rasouzamail,,,,0.0,0.0,0.0,7.0
+CD_Aula4_v7,,,renatobarbosamedeiros,,,,0.0,0.0,0.0,7.0
+CD_Aula4_v7,,,rgildoaraujo,,,,0.0,0.0,0.0,7.0
+CD_Aula4_v7,,,rmsantos84,,,,0.0,0.0,0.0,7.0
+CD_Aula4_v7,,,rodrigoeaf,,,,0.0,0.0,0.0,7.0
+CD_Aula4_v7,,,ronaldoabrao,,,,0.0,0.0,0.0,7.0
+CD_Aula4_v7,,,zmalhano,,,,0.0,0.0,0.0,7.0
+CD_Aula4_v7,,,rafaelssl,,,,0.0,0.0,0.0,7.0
+CD_Aula4_v7,,,luisssguilherme,,,,0.0,0.0,0.0,7.0
+CD_Aula4_v7,,,mlnunex,,,,0.0,0.0,0.0,7.0
+CD_Aula4_v7,,,leila2905,,,,0.0,0.0,0.0,7.0
+CD_Aula4_v7,,,pedromasson,,,,0.0,0.0,0.0,7.0
+CD_Aula4_v7,,,root,,,,0.0,0.0,0.0,7.0
 CD_Aula5,,,ronniedilli,,,,0.0,0.0,0.0,4.0
 CD_Aula5,,,alexandrepratti,,,,0.0,0.0,0.0,4.0
 CD_Aula5,,,alexbenevento,,,,0.0,0.0,0.0,4.0
@@ -567,7 +675,7 @@ CD_Aula5,,,borracini,,,,0.0,0.0,0.0,4.0
 CD_Aula5,,,chfmartins,,,,0.0,0.0,0.0,4.0
 CD_Aula5,,,dermevaljr,,,,0.0,0.0,0.0,4.0
 CD_Aula5,,,eduardojd,,,,0.0,0.0,0.0,4.0
-CD_Aula5,,2020-08-22 00:11:21.580462,euclidesfagundes,,,,0.0,0.0,0.0,4.0
+CD_Aula5,,2020-08-22 00:11:21.580462,euclidesfagundes,,,,1.0,0.0,1.0,4.0
 CD_Aula5,,,fabiolima-ww,,,,0.0,0.0,0.0,4.0
 CD_Aula5,,,gchehab,,,,0.0,0.0,0.0,4.0
 CD_Aula5,,,gustavomacedo20,,,,0.0,0.0,0.0,4.0
@@ -591,6 +699,8 @@ CD_Aula5,,,rafaelssl,,,,0.0,0.0,0.0,4.0
 CD_Aula5,,,luisssguilherme,,,,0.0,0.0,0.0,4.0
 CD_Aula5,,,mlnunex,,,,0.0,0.0,0.0,4.0
 CD_Aula5,,,leila2905,,,,0.0,0.0,0.0,4.0
+CD_Aula5,,,pedromasson,,,,0.0,0.0,0.0,4.0
+CD_Aula5,,,root,,,,0.0,0.0,0.0,4.0
 CD_Aula5_v2,,,ronniedilli,,,,0.0,0.0,0.0,5.0
 CD_Aula5_v2,,,alexandrepratti,,,,0.0,0.0,0.0,5.0
 CD_Aula5_v2,,,alexbenevento,,,,0.0,0.0,0.0,5.0
@@ -628,6 +738,8 @@ CD_Aula5_v2,,,rafaelssl,,,,0.0,0.0,0.0,5.0
 CD_Aula5_v2,,,luisssguilherme,,,,0.0,0.0,0.0,5.0
 CD_Aula5_v2,,,mlnunex,,,,0.0,0.0,0.0,5.0
 CD_Aula5_v2,,,leila2905,,,,0.0,0.0,0.0,5.0
+CD_Aula5_v2,,,pedromasson,,,,0.0,0.0,0.0,5.0
+CD_Aula5_v2,,,root,,,,0.0,0.0,0.0,5.0
 CD_Aula5_v3,,,ronniedilli,,,,0.0,0.0,0.0,5.0
 CD_Aula5_v3,,,alexandrepratti,,,,0.0,0.0,0.0,5.0
 CD_Aula5_v3,,,alexbenevento,,,,0.0,0.0,0.0,5.0
@@ -665,6 +777,8 @@ CD_Aula5_v3,,2020-08-29 21:59:17.651916,rafaelssl,,,,0.0,0.0,0.0,5.0
 CD_Aula5_v3,,,luisssguilherme,,,,0.0,0.0,0.0,5.0
 CD_Aula5_v3,,2020-08-24 16:01:02.383759,mlnunex,,,,5.0,0.0,5.0,5.0
 CD_Aula5_v3,,,leila2905,,,,0.0,0.0,0.0,5.0
+CD_Aula5_v3,,,pedromasson,,,,0.0,0.0,0.0,5.0
+CD_Aula5_v3,,,root,,,,0.0,0.0,0.0,5.0
 CD_Aula5_v4,,,ronniedilli,,,,0.0,0.0,0.0,5.0
 CD_Aula5_v4,,2020-08-25 02:25:05.220239,alexandrepratti,,,,5.0,0.0,5.0,5.0
 CD_Aula5_v4,,,alexbenevento,,,,0.0,0.0,0.0,5.0
@@ -702,6 +816,8 @@ CD_Aula5_v4,,2020-08-29 22:05:46.600297,rafaelssl,,,,5.0,0.0,5.0,5.0
 CD_Aula5_v4,,2020-08-29 19:19:12.950298,luisssguilherme,,,,5.0,0.0,5.0,5.0
 CD_Aula5_v4,,,mlnunex,,,,0.0,0.0,0.0,5.0
 CD_Aula5_v4,,,leila2905,,,,0.0,0.0,0.0,5.0
+CD_Aula5_v4,,,pedromasson,,,,0.0,0.0,0.0,5.0
+CD_Aula5_v4,,,root,,,,0.0,0.0,0.0,5.0
 CD_Aula6,,,ronniedilli,,,,0.0,0.0,0.0,12.0
 CD_Aula6,,2020-08-28 02:17:35.055970,alexandrepratti,,,,2.0,0.0,2.0,12.0
 CD_Aula6,,,alexbenevento,,,,0.0,0.0,0.0,12.0
@@ -739,6 +855,8 @@ CD_Aula6,,,rafaelssl,,,,0.0,0.0,0.0,12.0
 CD_Aula6,,,luisssguilherme,,,,0.0,0.0,0.0,12.0
 CD_Aula6,,,mlnunex,,,,0.0,0.0,0.0,12.0
 CD_Aula6,,,leila2905,,,,0.0,0.0,0.0,12.0
+CD_Aula6,,,pedromasson,,,,0.0,0.0,0.0,12.0
+CD_Aula6,,,root,,,,0.0,0.0,0.0,12.0
 CD_Aula7,,,ronniedilli,,,,0.0,0.0,0.0,12.0
 CD_Aula7,,,alexandrepratti,,,,0.0,0.0,0.0,12.0
 CD_Aula7,,,alexbenevento,,,,0.0,0.0,0.0,12.0
@@ -776,6 +894,8 @@ CD_Aula7,,,rafaelssl,,,,0.0,0.0,0.0,12.0
 CD_Aula7,,,luisssguilherme,,,,0.0,0.0,0.0,12.0
 CD_Aula7,,,mlnunex,,,,0.0,0.0,0.0,12.0
 CD_Aula7,,,leila2905,,,,0.0,0.0,0.0,12.0
+CD_Aula7,,,pedromasson,,,,0.0,0.0,0.0,12.0
+CD_Aula7,,,root,,,,0.0,0.0,0.0,12.0
 CD_Aula7_v2,,,ronniedilli,,,,0.0,0.0,0.0,12.0
 CD_Aula7_v2,,2020-08-28 02:43:01.668302,alexandrepratti,,,,0.0,0.0,0.0,12.0
 CD_Aula7_v2,,,alexbenevento,,,,0.0,0.0,0.0,12.0
@@ -813,77 +933,122 @@ CD_Aula7_v2,,,rafaelssl,,,,0.0,0.0,0.0,12.0
 CD_Aula7_v2,,,luisssguilherme,,,,0.0,0.0,0.0,12.0
 CD_Aula7_v2,,,mlnunex,,,,0.0,0.0,0.0,12.0
 CD_Aula7_v2,,,leila2905,,,,0.0,0.0,0.0,12.0
-CD_Aula8,,,ronniedilli,,,,0.0,0.0,0.0,2.0
-CD_Aula8,,,alexandrepratti,,,,0.0,0.0,0.0,2.0
-CD_Aula8,,,alexbenevento,,,,0.0,0.0,0.0,2.0
-CD_Aula8,,,alexlopespereira,,,,0.0,0.0,0.0,2.0
-CD_Aula8,,,antoniocruzjr,,,,0.0,0.0,0.0,2.0
-CD_Aula8,,,arthuribge,,,,0.0,0.0,0.0,2.0
-CD_Aula8,,,augustog81,,,,0.0,0.0,0.0,2.0
-CD_Aula8,,,fgottselig,,,,0.0,0.0,0.0,2.0
-CD_Aula8,,,fer-p,,,,0.0,0.0,0.0,2.0
-CD_Aula8,,,borracini,,,,0.0,0.0,0.0,2.0
-CD_Aula8,,,chfmartins,,,,0.0,0.0,0.0,2.0
-CD_Aula8,,,dermevaljr,,,,0.0,0.0,0.0,2.0
-CD_Aula8,,,eduardojd,,,,0.0,0.0,0.0,2.0
-CD_Aula8,,,euclidesfagundes,,,,0.0,0.0,0.0,2.0
-CD_Aula8,,,fabiolima-ww,,,,0.0,0.0,0.0,2.0
-CD_Aula8,,,gchehab,,,,0.0,0.0,0.0,2.0
-CD_Aula8,,,gustavomacedo20,,,,0.0,0.0,0.0,2.0
-CD_Aula8,,,halisson-gomides,,,,0.0,0.0,0.0,2.0
-CD_Aula8,,,joaoluizrabelo,,,,0.0,0.0,0.0,2.0
-CD_Aula8,,,jrodrigosousa,,,,0.0,0.0,0.0,2.0
-CD_Aula8,,,lago1970,,,,0.0,0.0,0.0,2.0
-CD_Aula8,,,marinarcaetano,,,,0.0,0.0,0.0,2.0
-CD_Aula8,,,matheusrizzo,,,,0.0,0.0,0.0,2.0
-CD_Aula8,,,maxwelfreitas,,,,0.0,0.0,0.0,2.0
-CD_Aula8,,,maxwellmeneses,,,,0.0,0.0,0.0,2.0
-CD_Aula8,,,mlnunes,,,,0.0,0.0,0.0,2.0
-CD_Aula8,,,rasouzamail,,,,0.0,0.0,0.0,2.0
-CD_Aula8,,,renatobarbosamedeiros,,,,0.0,0.0,0.0,2.0
-CD_Aula8,,,rgildoaraujo,,,,0.0,0.0,0.0,2.0
-CD_Aula8,,,rmsantos84,,,,0.0,0.0,0.0,2.0
-CD_Aula8,,,rodrigoeaf,,,,0.0,0.0,0.0,2.0
-CD_Aula8,,,ronaldoabrao,,,,0.0,0.0,0.0,2.0
-CD_Aula8,,,zmalhano,,,,0.0,0.0,0.0,2.0
-CD_Aula8,,,rafaelssl,,,,0.0,0.0,0.0,2.0
-CD_Aula8,,,luisssguilherme,,,,0.0,0.0,0.0,2.0
-CD_Aula8,,,mlnunex,,,,0.0,0.0,0.0,2.0
-CD_Aula8,,,leila2905,,,,0.0,0.0,0.0,2.0
+CD_Aula7_v2,,,pedromasson,,,,0.0,0.0,0.0,12.0
+CD_Aula7_v2,,,root,,,,0.0,0.0,0.0,12.0
+CD_Aula7_v3,,,ronniedilli,,,,0.0,0.0,0.0,14.0
+CD_Aula7_v3,,,alexandrepratti,,,,0.0,0.0,0.0,14.0
+CD_Aula7_v3,,,alexbenevento,,,,0.0,0.0,0.0,14.0
+CD_Aula7_v3,,,alexlopespereira,,,,0.0,0.0,0.0,14.0
+CD_Aula7_v3,,,antoniocruzjr,,,,0.0,0.0,0.0,14.0
+CD_Aula7_v3,,,arthuribge,,,,0.0,0.0,0.0,14.0
+CD_Aula7_v3,,,augustog81,,,,0.0,0.0,0.0,14.0
+CD_Aula7_v3,,,fgottselig,,,,0.0,0.0,0.0,14.0
+CD_Aula7_v3,,,fer-p,,,,0.0,0.0,0.0,14.0
+CD_Aula7_v3,,,borracini,,,,0.0,0.0,0.0,14.0
+CD_Aula7_v3,,,chfmartins,,,,0.0,0.0,0.0,14.0
+CD_Aula7_v3,,,dermevaljr,,,,0.0,0.0,0.0,14.0
+CD_Aula7_v3,,,eduardojd,,,,0.0,0.0,0.0,14.0
+CD_Aula7_v3,,,euclidesfagundes,,,,0.0,0.0,0.0,14.0
+CD_Aula7_v3,,,fabiolima-ww,,,,0.0,0.0,0.0,14.0
+CD_Aula7_v3,,,gchehab,,,,0.0,0.0,0.0,14.0
+CD_Aula7_v3,,,gustavomacedo20,,,,0.0,0.0,0.0,14.0
+CD_Aula7_v3,,,halisson-gomides,,,,0.0,0.0,0.0,14.0
+CD_Aula7_v3,,,joaoluizrabelo,,,,0.0,0.0,0.0,14.0
+CD_Aula7_v3,,,jrodrigosousa,,,,0.0,0.0,0.0,14.0
+CD_Aula7_v3,,,lago1970,,,,0.0,0.0,0.0,14.0
+CD_Aula7_v3,,,marinarcaetano,,,,0.0,0.0,0.0,14.0
+CD_Aula7_v3,,,matheusrizzo,,,,0.0,0.0,0.0,14.0
+CD_Aula7_v3,,,maxwelfreitas,,,,0.0,0.0,0.0,14.0
+CD_Aula7_v3,,,maxwellmeneses,,,,0.0,0.0,0.0,14.0
+CD_Aula7_v3,,,mlnunes,,,,0.0,0.0,0.0,14.0
+CD_Aula7_v3,,,rasouzamail,,,,0.0,0.0,0.0,14.0
+CD_Aula7_v3,,,renatobarbosamedeiros,,,,0.0,0.0,0.0,14.0
+CD_Aula7_v3,,,rgildoaraujo,,,,0.0,0.0,0.0,14.0
+CD_Aula7_v3,,,rmsantos84,,,,0.0,0.0,0.0,14.0
+CD_Aula7_v3,,,rodrigoeaf,,,,0.0,0.0,0.0,14.0
+CD_Aula7_v3,,,ronaldoabrao,,,,0.0,0.0,0.0,14.0
+CD_Aula7_v3,,,zmalhano,,,,0.0,0.0,0.0,14.0
+CD_Aula7_v3,,,rafaelssl,,,,0.0,0.0,0.0,14.0
+CD_Aula7_v3,,,luisssguilherme,,,,0.0,0.0,0.0,14.0
+CD_Aula7_v3,,,mlnunex,,,,0.0,0.0,0.0,14.0
+CD_Aula7_v3,,,leila2905,,,,0.0,0.0,0.0,14.0
+CD_Aula7_v3,,,pedromasson,,,,0.0,0.0,0.0,14.0
+CD_Aula7_v3,,,root,,,,0.0,0.0,0.0,14.0
+CD_Aula8,,,ronniedilli,,,,0.0,0.0,0.0,1.0
+CD_Aula8,,,alexandrepratti,,,,0.0,0.0,0.0,1.0
+CD_Aula8,,,alexbenevento,,,,0.0,0.0,0.0,1.0
+CD_Aula8,,,alexlopespereira,,,,0.0,0.0,0.0,1.0
+CD_Aula8,,,antoniocruzjr,,,,0.0,0.0,0.0,1.0
+CD_Aula8,,,arthuribge,,,,0.0,0.0,0.0,1.0
+CD_Aula8,,2020-09-07 12:44:26.310431,augustog81,,,,0.0,0.0,0.0,1.0
+CD_Aula8,,,fgottselig,,,,0.0,0.0,0.0,1.0
+CD_Aula8,,,fer-p,,,,0.0,0.0,0.0,1.0
+CD_Aula8,,,borracini,,,,0.0,0.0,0.0,1.0
+CD_Aula8,,,chfmartins,,,,0.0,0.0,0.0,1.0
+CD_Aula8,,,dermevaljr,,,,0.0,0.0,0.0,1.0
+CD_Aula8,,,eduardojd,,,,0.0,0.0,0.0,1.0
+CD_Aula8,,,euclidesfagundes,,,,0.0,0.0,0.0,1.0
+CD_Aula8,,,fabiolima-ww,,,,0.0,0.0,0.0,1.0
+CD_Aula8,,,gchehab,,,,0.0,0.0,0.0,1.0
+CD_Aula8,,,gustavomacedo20,,,,0.0,0.0,0.0,1.0
+CD_Aula8,,2020-09-07 19:34:00.894635,halisson-gomides,,,,0.0,0.0,0.0,1.0
+CD_Aula8,,,joaoluizrabelo,,,,0.0,0.0,0.0,1.0
+CD_Aula8,,,jrodrigosousa,,,,0.0,0.0,0.0,1.0
+CD_Aula8,,,lago1970,,,,0.0,0.0,0.0,1.0
+CD_Aula8,,,marinarcaetano,,,,0.0,0.0,0.0,1.0
+CD_Aula8,,,matheusrizzo,,,,0.0,0.0,0.0,1.0
+CD_Aula8,,2020-09-04 17:44:21.565128,maxwelfreitas,,,,0.0,0.0,0.0,1.0
+CD_Aula8,,,maxwellmeneses,,,,0.0,0.0,0.0,1.0
+CD_Aula8,,,mlnunes,,,,0.0,0.0,0.0,1.0
+CD_Aula8,,,rasouzamail,,,,0.0,0.0,0.0,1.0
+CD_Aula8,,,renatobarbosamedeiros,,,,0.0,0.0,0.0,1.0
+CD_Aula8,,,rgildoaraujo,,,,0.0,0.0,0.0,1.0
+CD_Aula8,,,rmsantos84,,,,0.0,0.0,0.0,1.0
+CD_Aula8,,,rodrigoeaf,,,,0.0,0.0,0.0,1.0
+CD_Aula8,,,ronaldoabrao,,,,0.0,0.0,0.0,1.0
+CD_Aula8,,,zmalhano,,,,0.0,0.0,0.0,1.0
+CD_Aula8,,,rafaelssl,,,,0.0,0.0,0.0,1.0
+CD_Aula8,,,luisssguilherme,,,,0.0,0.0,0.0,1.0
+CD_Aula8,,,mlnunex,,,,0.0,0.0,0.0,1.0
+CD_Aula8,,,leila2905,,,,0.0,0.0,0.0,1.0
+CD_Aula8,,,pedromasson,,,,0.0,0.0,0.0,1.0
+CD_Aula8,,,root,,,,0.0,0.0,0.0,1.0
 CD_TrabalhoFinal,,,ronniedilli,,,,0.0,0.0,0.0,4.0
-CD_TrabalhoFinal,,,alexandrepratti,,,,0.0,0.0,0.0,4.0
+CD_TrabalhoFinal,,2020-09-07 06:51:16.331252,alexandrepratti,,,,10.0,0.0,10.0,4.0
 CD_TrabalhoFinal,,,alexbenevento,,,,0.0,0.0,0.0,4.0
 CD_TrabalhoFinal,,,alexlopespereira,,,,0.0,0.0,0.0,4.0
 CD_TrabalhoFinal,,,antoniocruzjr,,,,0.0,0.0,0.0,4.0
-CD_TrabalhoFinal,,,arthuribge,,,,0.0,0.0,0.0,4.0
-CD_TrabalhoFinal,,,augustog81,,,,0.0,0.0,0.0,4.0
-CD_TrabalhoFinal,,,fgottselig,,,,0.0,0.0,0.0,4.0
-CD_TrabalhoFinal,,,fer-p,,,,0.0,0.0,0.0,4.0
+CD_TrabalhoFinal,,2020-09-08 01:39:02.047119,arthuribge,,,,10.0,0.0,10.0,4.0
+CD_TrabalhoFinal,,2020-09-10 15:06:31.922928,augustog81,,,,10.0,0.0,10.0,4.0
+CD_TrabalhoFinal,,2020-08-31 19:08:52.558294,fgottselig,,,,10.0,0.0,10.0,4.0
+CD_TrabalhoFinal,,2020-09-07 17:33:23.124264,fer-p,,,,1.0,0.0,1.0,4.0
 CD_TrabalhoFinal,,,borracini,,,,0.0,0.0,0.0,4.0
 CD_TrabalhoFinal,,,chfmartins,,,,0.0,0.0,0.0,4.0
-CD_TrabalhoFinal,,,dermevaljr,,,,0.0,0.0,0.0,4.0
-CD_TrabalhoFinal,,,eduardojd,,,,0.0,0.0,0.0,4.0
+CD_TrabalhoFinal,,2020-09-07 16:45:24.449714,dermevaljr,,,,10.0,0.0,10.0,4.0
+CD_TrabalhoFinal,,2020-09-06 18:44:09.568297,eduardojd,,,,10.0,0.0,10.0,4.0
 CD_TrabalhoFinal,,,euclidesfagundes,,,,0.0,0.0,0.0,4.0
-CD_TrabalhoFinal,,,fabiolima-ww,,,,0.0,0.0,0.0,4.0
-CD_TrabalhoFinal,,,gchehab,,,,0.0,0.0,0.0,4.0
-CD_TrabalhoFinal,,,gustavomacedo20,,,,0.0,0.0,0.0,4.0
-CD_TrabalhoFinal,,,halisson-gomides,,,,0.0,0.0,0.0,4.0
-CD_TrabalhoFinal,,,joaoluizrabelo,,,,0.0,0.0,0.0,4.0
-CD_TrabalhoFinal,,,jrodrigosousa,,,,0.0,0.0,0.0,4.0
+CD_TrabalhoFinal,,2020-09-07 12:58:27.353464,fabiolima-ww,,,,10.0,0.0,10.0,4.0
+CD_TrabalhoFinal,,2020-09-05 04:00:39.953161,gchehab,,,,10.0,0.0,10.0,4.0
+CD_TrabalhoFinal,,2020-09-07 05:54:37.463115,gustavomacedo20,,,,10.0,0.0,10.0,4.0
+CD_TrabalhoFinal,,2020-09-03 20:35:19.073970,halisson-gomides,,,,0.0,0.0,0.0,4.0
+CD_TrabalhoFinal,,2020-09-08 02:35:58.267078,joaoluizrabelo,,,,10.0,0.0,10.0,4.0
+CD_TrabalhoFinal,,2020-09-07 18:40:43.727227,jrodrigosousa,,,,10.0,0.0,10.0,4.0
 CD_TrabalhoFinal,,,lago1970,,,,0.0,0.0,0.0,4.0
-CD_TrabalhoFinal,,,marinarcaetano,,,,0.0,0.0,0.0,4.0
-CD_TrabalhoFinal,,,matheusrizzo,,,,0.0,0.0,0.0,4.0
-CD_TrabalhoFinal,,,maxwelfreitas,,,,0.0,0.0,0.0,4.0
+CD_TrabalhoFinal,,2020-09-06 01:14:10.413970,marinarcaetano,,,,8.0,0.0,8.0,4.0
+CD_TrabalhoFinal,,2020-09-07 03:54:36.982360,matheusrizzo,,,,10.0,0.0,10.0,4.0
+CD_TrabalhoFinal,,2020-09-04 17:44:27.825536,maxwelfreitas,,,,10.0,0.0,10.0,4.0
 CD_TrabalhoFinal,,,maxwellmeneses,,,,0.0,0.0,0.0,4.0
 CD_TrabalhoFinal,,,mlnunes,,,,0.0,0.0,0.0,4.0
 CD_TrabalhoFinal,,,rasouzamail,,,,0.0,0.0,0.0,4.0
-CD_TrabalhoFinal,,,renatobarbosamedeiros,,,,0.0,0.0,0.0,4.0
-CD_TrabalhoFinal,,,rgildoaraujo,,,,0.0,0.0,0.0,4.0
-CD_TrabalhoFinal,,,rmsantos84,,,,0.0,0.0,0.0,4.0
-CD_TrabalhoFinal,,,rodrigoeaf,,,,0.0,0.0,0.0,4.0
-CD_TrabalhoFinal,,,ronaldoabrao,,,,0.0,0.0,0.0,4.0
-CD_TrabalhoFinal,,,zmalhano,,,,0.0,0.0,0.0,4.0
-CD_TrabalhoFinal,,,rafaelssl,,,,0.0,0.0,0.0,4.0
-CD_TrabalhoFinal,,,luisssguilherme,,,,0.0,0.0,0.0,4.0
-CD_TrabalhoFinal,,,mlnunex,,,,0.0,0.0,0.0,4.0
+CD_TrabalhoFinal,,2020-09-04 19:24:42.671815,renatobarbosamedeiros,,,,8.0,0.0,8.0,4.0
+CD_TrabalhoFinal,,2020-09-08 02:32:56.151605,rgildoaraujo,,,,8.0,0.0,8.0,4.0
+CD_TrabalhoFinal,,2020-09-08 00:42:12.269458,rmsantos84,,,,10.0,0.0,10.0,4.0
+CD_TrabalhoFinal,,2020-09-06 21:59:02.631591,rodrigoeaf,,,,8.0,0.0,8.0,4.0
+CD_TrabalhoFinal,,2020-09-08 02:53:50.211850,ronaldoabrao,,,,9.0,0.0,9.0,4.0
+CD_TrabalhoFinal,,2020-09-05 00:19:17.714754,zmalhano,,,,10.0,0.0,10.0,4.0
+CD_TrabalhoFinal,,2020-09-07 13:37:25.208809,rafaelssl,,,,8.0,0.0,8.0,4.0
+CD_TrabalhoFinal,,2020-09-07 15:13:24.706894,luisssguilherme,,,,10.0,0.0,10.0,4.0
+CD_TrabalhoFinal,,2020-09-06 23:56:16.220597,mlnunex,,,,10.0,0.0,10.0,4.0
 CD_TrabalhoFinal,,,leila2905,,,,0.0,0.0,0.0,4.0
+CD_TrabalhoFinal,,2020-09-07 21:39:21.041079,pedromasson,,,,10.0,0.0,10.0,4.0
+CD_TrabalhoFinal,,,root,,,,0.0,0.0,0.0,4.0
