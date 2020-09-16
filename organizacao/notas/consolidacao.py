@@ -1,12 +1,12 @@
 import pandas as pd
 import re
 
-nao_extra = [10., 7., 8., 7., 5., 12., 4., 1., 10.]
+nao_extra = [10., 7.,   8., 7., 5., 12.,  4., 0.,  0.]
 total = [14., 10., 11., 7., 5., 12., 14., 2., 10.]
-df = pd.read_csv('./data/grades.csv')
+df = pd.read_csv('data/grades_bkp.csv')
 
 df['aula'] = df['assignment'].apply(lambda x: re.search('Aula\d', x).group(0) if re.search('Aula\d', x) else 'TrabalhoFinal')
-
+print(df.info())
 table = pd.pivot_table(df, values='score', index=['student_id'], columns=['aula'], aggfunc=max)
 
 for a in range(8):
