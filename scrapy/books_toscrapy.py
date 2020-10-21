@@ -44,9 +44,7 @@ def get_page_data(driver):
 def scrapy_books(url):
     driver = webdriver.Firefox()
     driver.get(url)
-    print(driver)
     to_continue = True
-
     whole_dataset = []
     while to_continue:
         current_items = get_page_data(driver)
