@@ -5,7 +5,7 @@ import re
 from selenium import webdriver
 
 login = os.environ.get('LOGIN') or 'usuario'
-passowrd = os.environ.get('PASSWORD') or 'senha'
+passowrd = os.environ.get('PASSWORD') or 'minhasenha'
 
 url = 'https://sei.fazenda.gov.br/'
 driver = webdriver.Firefox()
