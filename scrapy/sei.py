@@ -1,10 +1,11 @@
 # -*- coding: utf-8 -*-
 import datetime
+import os
 import re
 from selenium import webdriver
 
-login = "usuario"
-passowrd = "senha"
+login = os.environ.get('LOGIN') or 'usuario'
+passowrd = os.environ.get('PASSWORD') or 'senha'
 
 url = 'https://sei.fazenda.gov.br/'
 driver = webdriver.Firefox()
