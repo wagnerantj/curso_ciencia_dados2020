@@ -7,7 +7,8 @@ from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.common.by import By
 from scrapy.util import wait_element
-
+from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver.support.ui import Select
 
 def get_page_data(driver):
     a_tags = driver.find_elements_by_xpath('//article/h3/a')
@@ -42,7 +43,17 @@ def get_page_data(driver):
 
 
 def scrapy_books(url):
-    driver = webdriver.Firefox()
+    # Opção 1) Instala o driver do Chrome para o selenium
+      # A opção 1 não funciona em alguns computadores.
+      # Você saberá se funcionou caso a apareça uma janela do Chrome em branco
+    driver = webdriver.Chrome(ChromeDriverManager().install())
+    # Opção 2) Usar o driver do firefox, o geckodriver.
+      # Para instalar no windows:
+      # 1) Baixe o arquivo para Windows (32 ou 64bits) de https://github.com/mozilla/geckodriver/releases
+      # 2) Descompacte o arquivo;
+      # 3) Adicione a pasta do arquivo executável na variavel de ambiente PATH.
+      #    Veja como adicionar https://knowledge.autodesk.com/pt-br/support/navisworks-products/troubleshooting/caas/sfdcarticles/sfdcarticles/PTB/Adding-folder-path-to-Windows-PATH-environment-variable.html
+    # driver = webdriver.Firefox()
     driver.get(url)
     to_continue = True
     whole_dataset = []
